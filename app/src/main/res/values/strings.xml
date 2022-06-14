@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewJenisKucingUTS</string>
+    <string name="Jenis_Kucing">Jenis_Kucing</string>
+    <string name="Deskripsi">Deskripsi</string>
+</resources>
